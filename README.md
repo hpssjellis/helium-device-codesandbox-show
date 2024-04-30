@@ -1,6 +1,11 @@
 # helium-device-codesandbox-show
 
 
+
+Not sure if this works as a gitpod.  try
+
+https://gitpod.io/#github.com/hpssjellis/helium-iot-codesandbox
+
 I think this is a public link to my original codesandbox of this repository. You will probably have to fork it.
 
 https://codesandbox.io/p/devbox/helium-device-codesandbox-show-r468g?file=%2F.codesandbox%2Ftasks.json%3A1%2C1-22%2C1
