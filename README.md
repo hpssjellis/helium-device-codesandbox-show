@@ -9,3 +9,5 @@ My public app for that link is
 
 https://r468g-8080.csb.app/
 
+
+You probably have to fork the project and then grab a new URL.
